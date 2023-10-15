@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+  .subscribe-inputbar {
+    width: 50%;
+  }
+}
+body {
+  padding-top: 50px;
+}
